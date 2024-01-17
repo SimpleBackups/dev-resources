@@ -214,6 +214,13 @@ export const resources: Resource[] = [
         url: 'https://simpleanalytics.com/',
     },
     {
+        name: 'SimpleBackups',
+        categories: ['Security'],
+        description:
+            "SimpleBackups is an all-in-one website & database backup automation service built for the cloud. Super simple setup, store on any cloud provider and restore in just a few clicks. It supports database, server, cloud storage backups and is built with a multi-cloud approach.",
+        url: 'https://simplebackups.com/',
+    },
+    {
         name: 'Simple Icons',
         categories: ['Icon'],
         description: '1493 Free SVG icons for popular brands.',
